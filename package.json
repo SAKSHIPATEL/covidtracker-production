@@ -1,0 +1,19 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "this is a covid tracker app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "react",
+    "material-ui"
+  ],
+  "author": "sakshi patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
